@@ -1,0 +1,10 @@
+- 2020-09-07 23:17:26 UTC: chore: bump version
+- 2020-11-26 11:08:49 UTC: test: add unit tests
+- 2021-06-04 12:38:33 UTC: feat: add core functionality
+- 2021-10-26 13:50:43 UTC: chore: initial project setup
+- 2022-09-30 07:14:44 UTC: fix: resolve minor bug
+- 2022-10-04 20:51:07 UTC: perf: improve performance
+- 2023-01-15 06:49:21 UTC: style: format code
+- 2023-11-15 05:30:15 UTC: feat: add core functionality
+- 2025-08-05 18:56:01 UTC: docs: add usage instructions
+- 2025-11-21 11:56:31 UTC: fix: patch minor issue
